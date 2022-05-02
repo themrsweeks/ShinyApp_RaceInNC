@@ -6,6 +6,7 @@ Created as a result of Chase Romano's Visual Analytics course in the Data Scienc
 
 To view the live app go to [Race in North Carolina](https://weeksmarian.shinyapps.io/Final_Project_4/).
 
+#
 >Reproducing the Report
 
 If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
