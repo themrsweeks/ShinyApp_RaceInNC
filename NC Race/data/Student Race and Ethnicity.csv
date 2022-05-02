@@ -1,0 +1,65 @@
+ID IPEDS Race,IPEDS_Race,ID Year,Year,Completions,Geography,ID Geography,Slug Geography,share
+asian,Asian,2019,2019,5721,North Carolina,04000US37,north-carolina,0.037798803
+black,Black or African American,2019,2019,29058,North Carolina,04000US37,north-carolina,0.191986997
+hawaiian,Native Hawaiian or Other Pacific Islanders,2019,2019,204,North Carolina,04000US37,north-carolina,0.001347834
+hispanic,Hispanic or Latino,2019,2019,12020,North Carolina,04000US37,north-carolina,0.079416467
+multiracial,Two or More Races,2019,2019,4342,North Carolina,04000US37,north-carolina,0.028687712
+native,American Indian or Alaska Native,2019,2019,1635,North Carolina,04000US37,north-carolina,0.01080249
+unknown,Unknown,2019,2019,4858,North Carolina,04000US37,north-carolina,0.032096938
+white,White,2019,2019,93516,North Carolina,04000US37,north-carolina,0.617862759
+asian,Asian,2018,2018,5339,North Carolina,04000US37,north-carolina,0.035873144
+black,Black or African American,2018,2018,29489,North Carolina,04000US37,north-carolina,0.198138816
+hawaiian,Native Hawaiian or Other Pacific Islanders,2018,2018,199,North Carolina,04000US37,north-carolina,0.001337096
+hispanic,Hispanic or Latino,2018,2018,10920,North Carolina,04000US37,north-carolina,0.073372304
+multiracial,Two or More Races,2018,2018,3920,North Carolina,04000US37,north-carolina,0.026338776
+native,American Indian or Alaska Native,2018,2018,1476,North Carolina,04000US37,north-carolina,0.009917355
+unknown,Unknown,2018,2018,5580,North Carolina,04000US37,north-carolina,0.037492441
+white,White,2018,2018,91907,North Carolina,04000US37,north-carolina,0.617530068
+asian,Asian,2017,2017,4773,North Carolina,04000US37,north-carolina,0.033272917
+black,Black or African American,2017,2017,28290,North Carolina,04000US37,north-carolina,0.197211572
+hawaiian,Native Hawaiian or Other Pacific Islanders,2017,2017,239,North Carolina,04000US37,north-carolina,0.001666086
+hispanic,Hispanic or Latino,2017,2017,9731,North Carolina,04000US37,north-carolina,0.067835483
+multiracial,Two or More Races,2017,2017,3518,North Carolina,04000US37,north-carolina,0.024524224
+native,American Indian or Alaska Native,2017,2017,1439,North Carolina,04000US37,north-carolina,0.01003137
+unknown,Unknown,2017,2017,5979,North Carolina,04000US37,north-carolina,0.041680028
+white,White,2017,2017,89481,North Carolina,04000US37,north-carolina,0.62377832
+asian,Asian,2016,2016,4352,North Carolina,04000US37,north-carolina,0.031791485
+black,Black or African American,2016,2016,26921,North Carolina,04000US37,north-carolina,0.19665868
+hawaiian,Native Hawaiian or Other Pacific Islanders,2016,2016,209,North Carolina,04000US37,north-carolina,0.001526751
+hispanic,Hispanic or Latino,2016,2016,8146,North Carolina,04000US37,north-carolina,0.059506764
+multiracial,Two or More Races,2016,2016,2984,North Carolina,04000US37,north-carolina,0.021798206
+native,American Indian or Alaska Native,2016,2016,1446,North Carolina,04000US37,north-carolina,0.010563072
+unknown,Unknown,2016,2016,6004,North Carolina,04000US37,north-carolina,0.043859393
+white,White,2016,2016,86830,North Carolina,04000US37,north-carolina,0.634295649
+asian,Asian,2015,2015,4236,North Carolina,04000US37,north-carolina,0.030887243
+black,Black or African American,2015,2015,27857,North Carolina,04000US37,north-carolina,0.203122266
+hawaiian,Native Hawaiian or Other Pacific Islanders,2015,2015,160,North Carolina,04000US37,north-carolina,0.001166657
+hispanic,Hispanic or Latino,2015,2015,7287,North Carolina,04000US37,north-carolina,0.053133932
+multiracial,Two or More Races,2015,2015,2587,North Carolina,04000US37,north-carolina,0.018863384
+native,American Indian or Alaska Native,2015,2015,1422,North Carolina,04000US37,north-carolina,0.010368664
+unknown,Unknown,2015,2015,5265,North Carolina,04000US37,north-carolina,0.038390305
+white,White,2015,2015,88330,North Carolina,04000US37,north-carolina,0.644067549
+asian,Asian,2014,2014,3782,North Carolina,04000US37,north-carolina,0.028589787
+black,Black or African American,2014,2014,26902,North Carolina,04000US37,north-carolina,0.203363949
+hawaiian,Native Hawaiian or Other Pacific Islanders,2014,2014,192,North Carolina,04000US37,north-carolina,0.001451412
+hispanic,Hispanic or Latino,2014,2014,6224,North Carolina,04000US37,north-carolina,0.04704993
+multiracial,Two or More Races,2014,2014,2108,North Carolina,04000US37,north-carolina,0.015935291
+native,American Indian or Alaska Native,2014,2014,1303,North Carolina,04000US37,north-carolina,0.009849945
+unknown,Unknown,2014,2014,6130,North Carolina,04000US37,north-carolina,0.046339343
+white,White,2014,2014,85644,North Carolina,04000US37,north-carolina,0.647420342
+asian,Asian,2013,2013,4186,North Carolina,04000US37,north-carolina,0.033086986
+black,Black or African American,2013,2013,25176,North Carolina,04000US37,north-carolina,0.198996166
+hawaiian,Native Hawaiian or Other Pacific Islanders,2013,2013,152,North Carolina,04000US37,north-carolina,0.001201439
+hispanic,Hispanic or Latino,2013,2013,5541,North Carolina,04000US37,north-carolina,0.043797178
+multiracial,Two or More Races,2013,2013,1533,North Carolina,04000US37,north-carolina,0.01211714
+native,American Indian or Alaska Native,2013,2013,1248,North Carolina,04000US37,north-carolina,0.009864443
+unknown,Unknown,2013,2013,5942,North Carolina,04000US37,north-carolina,0.046966763
+white,White,2013,2013,82737,North Carolina,04000US37,north-carolina,0.653969885
+asian,Asian,2012,2012,3718,North Carolina,04000US37,north-carolina,0.030246331
+black,Black or African American,2012,2012,24511,North Carolina,04000US37,north-carolina,0.199399629
+hawaiian,Native Hawaiian or Other Pacific Islanders,2012,2012,150,North Carolina,04000US37,north-carolina,0.001220266
+hispanic,Hispanic or Latino,2012,2012,4675,North Carolina,04000US37,north-carolina,0.038031629
+multiracial,Two or More Races,2012,2012,1202,North Carolina,04000US37,north-carolina,0.0097784
+native,American Indian or Alaska Native,2012,2012,1138,North Carolina,04000US37,north-carolina,0.009257753
+unknown,Unknown,2012,2012,5732,North Carolina,04000US37,north-carolina,0.046630438
+white,White,2012,2012,81798,North Carolina,04000US37,north-carolina,0.665435554

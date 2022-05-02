@@ -1,0 +1,99 @@
+ID Race,Race,ID Ethnicity,Ethnicity,ID Year,Year,Hispanic Population Moe,Geography,ID Geography,Slug Geography,Population,share
+0,"White Alone",0,"Not Hispanic or Latino",2019,"2019",3780,"North Carolina","04000US37","north-carolina",6552128,0.6247211597466229
+0,"White Alone",1,"Hispanic or Latino",2019,"2019",18388,"North Carolina","04000US37","north-carolina",592382,0.05648143168952499
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2019,"2019",13919.999999999998,"North Carolina","04000US37","north-carolina",2214270,0.21112245096435153
+1,"Black or African American Alone",1,"Hispanic or Latino",2019,"2019",5328,"North Carolina","04000US37","north-carolina",39211,0.003738623756255194
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2019,"2019",3323,"North Carolina","04000US37","north-carolina",113771,0.0108476438594504
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2019,"2019",3848,"North Carolina","04000US37","north-carolina",12937,0.001233495078796089
+3,"Asian Alone",0,"Not Hispanic or Latino",2019,"2019",6872,"North Carolina","04000US37","north-carolina",307366,0.02930621074354477
+3,"Asian Alone",1,"Hispanic or Latino",2019,"2019",1492,"North Carolina","04000US37","north-carolina",2539,0.00024208425485531962
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2019,"2019",1374,"North Carolina","04000US37","north-carolina",5003,0.0004770175372355904
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2019,"2019",1628,"North Carolina","04000US37","north-carolina",1875,0.00017877431187622068
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2019,"2019",4630,"North Carolina","04000US37","north-carolina",21879,0.0020860816904212437
+5,"Some Other Race Alone",1,"Hispanic or Latino",2019,"2019",16724,"North Carolina","04000US37","north-carolina",329586,0.03142480552215257
+6,"Two or More Races",0,"Not Hispanic or Latino",2019,"2019",15790.372889833854,"North Carolina","04000US37","north-carolina",250672,0.02390064763020586
+6,"Two or More Races",1,"Hispanic or Latino",2019,"2019",5440.621288051577,"North Carolina","04000US37","north-carolina",44465,0.004239573214707281
+0,"White Alone",0,"Not Hispanic or Latino",2018,"2018",4099,"North Carolina","04000US37","north-carolina",6505973,0.6265611607512601
+0,"White Alone",1,"Hispanic or Latino",2018,"2018",17843,"North Carolina","04000US37","north-carolina",592596,0.057070270291093086
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2018,"2018",10789,"North Carolina","04000US37","north-carolina",2184448,0.210374416629268
+1,"Black or African American Alone",1,"Hispanic or Latino",2018,"2018",5764,"North Carolina","04000US37","north-carolina",38085,0.0036677960094841683
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2018,"2018",2806,"North Carolina","04000US37","north-carolina",108795,0.010477559849069977
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2018,"2018",3594,"North Carolina","04000US37","north-carolina",12050,0.001160481604681219
+3,"Asian Alone",0,"Not Hispanic or Latino",2018,"2018",5005,"North Carolina","04000US37","north-carolina",303651,0.029243269688220486
+3,"Asian Alone",1,"Hispanic or Latino",2018,"2018",1064,"North Carolina","04000US37","north-carolina",3031,0.00029190205342645437
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2018,"2018",3130,"North Carolina","04000US37","north-carolina",8539,0.0008223528981222348
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2018,"2018",1073,"North Carolina","04000US37","north-carolina",1679,0.00016169698043649517
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2018,"2018",5362,"North Carolina","04000US37","north-carolina",25927,0.00249691340784813
+5,"Some Other Race Alone",1,"Hispanic or Latino",2018,"2018",16723,"North Carolina","04000US37","north-carolina",300703,0.028959360993564866
+6,"Two or More Races",0,"Not Hispanic or Latino",2018,"2018",10697.305922520865,"North Carolina","04000US37","north-carolina",250758,0.02414938142959777
+6,"Two or More Races",1,"Hispanic or Latino",2018,"2018",6327.715306490962,"North Carolina","04000US37","north-carolina",47385,0.004563437413926935
+0,"White Alone",0,"Not Hispanic or Latino",2017,"2017",2943,"North Carolina","04000US37","north-carolina",6472902,0.6300630783189122
+0,"White Alone",1,"Hispanic or Latino",2017,"2017",17112,"North Carolina","04000US37","north-carolina",593843,0.05780383336842389
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2017,"2017",10823,"North Carolina","04000US37","north-carolina",2175617,0.2117714657603277
+1,"Black or African American Alone",1,"Hispanic or Latino",2017,"2017",5208,"North Carolina","04000US37","north-carolina",30962,0.003013797062107561
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2017,"2017",4181,"North Carolina","04000US37","north-carolina",111317,0.010835438523436063
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2017,"2017",3036,"North Carolina","04000US37","north-carolina",8592,0.0008363330649708728
+3,"Asian Alone",0,"Not Hispanic or Latino",2017,"2017",4573,"North Carolina","04000US37","north-carolina",293050,0.028525070378225593
+3,"Asian Alone",1,"Hispanic or Latino",2017,"2017",1274,"North Carolina","04000US37","north-carolina",2622,0.0002552217523689046
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2017,"2017",2371,"North Carolina","04000US37","north-carolina",7252,0.0007058993700149872
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2017,"2017",778,"North Carolina","04000US37","north-carolina",1133,0.00011028460924255109
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2017,"2017",5227,"North Carolina","04000US37","north-carolina",23954,0.002331648305203944
+5,"Some Other Race Alone",1,"Hispanic or Latino",2017,"2017",15654.999999999998,"North Carolina","04000US37","north-carolina",285187,0.027759697136853854
+6,"Two or More Races",0,"Not Hispanic or Latino",2017,"2017",11220.919213682986,"North Carolina","04000US37","north-carolina",226861,0.02208232721745312
+6,"Two or More Races",1,"Hispanic or Latino",2017,"2017",5728.51752201213,"North Carolina","04000US37","north-carolina",40127,0.003905905132458824
+0,"White Alone",0,"Not Hispanic or Latino",2016,"2016",2989,"North Carolina","04000US37","north-carolina",6438334,0.6345194163906844
+0,"White Alone",1,"Hispanic or Latino",2016,"2016",13998,"North Carolina","04000US37","north-carolina",550731,0.05427638775935794
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2016,"2016",10177,"North Carolina","04000US37","north-carolina",2144650,0.21136245282743663
+1,"Black or African American Alone",1,"Hispanic or Latino",2016,"2016",6049,"North Carolina","04000US37","north-carolina",37562,0.003701861120977397
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2016,"2016",3130,"North Carolina","04000US37","north-carolina",108345,0.010677763248823174
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2016,"2016",3524,"North Carolina","04000US37","north-carolina",12498,0.0012317198309455169
+3,"Asian Alone",0,"Not Hispanic or Latino",2016,"2016",4293,"North Carolina","04000US37","north-carolina",273281,0.02693275941115553
+3,"Asian Alone",1,"Hispanic or Latino",2016,"2016",1171,"North Carolina","04000US37","north-carolina",2147,0.00021159405321171586
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2016,"2016",1081,"North Carolina","04000US37","north-carolina",5376,0.0005298228365468954
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2016,"2016",544,"North Carolina","04000US37","north-carolina",705,0.00006948011528377256
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2016,"2016",4474,"North Carolina","04000US37","north-carolina",19620,0.0019336168253441385
+5,"Some Other Race Alone",1,"Hispanic or Latino",2016,"2016",13430,"North Carolina","04000US37","north-carolina",284673,0.028055479231457285
+6,"Two or More Races",0,"Not Hispanic or Latino",2016,"2016",10853.131575725045,"North Carolina","04000US37","north-carolina",226072,0.02228015407437309
+6,"Two or More Races",1,"Hispanic or Latino",2016,"2016",5635.099023087349,"North Carolina","04000US37","north-carolina",42794,0.0042174922744025005
+0,"White Alone",0,"Not Hispanic or Latino",2015,"2015",3932,"North Carolina","04000US37","north-carolina",6387868,0.6360643175082014
+0,"White Alone",1,"Hispanic or Latino",2015,"2015",14104.000000000002,"North Carolina","04000US37","north-carolina",546847,0.054451636107134244
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2015,"2015",9555,"North Carolina","04000US37","north-carolina",2141818,0.21326896617099492
+1,"Black or African American Alone",1,"Hispanic or Latino",2015,"2015",5662,"North Carolina","04000US37","north-carolina",30674,0.0030543268701304677
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2015,"2015",3213,"North Carolina","04000US37","north-carolina",109502,0.0109035307078642
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2015,"2015",4014,"North Carolina","04000US37","north-carolina",11011,0.0010964071580819776
+3,"Asian Alone",0,"Not Hispanic or Latino",2015,"2015",5222,"North Carolina","04000US37","north-carolina",266004,0.026487030213281113
+3,"Asian Alone",1,"Hispanic or Latino",2015,"2015",892,"North Carolina","04000US37","north-carolina",2318,0.00023081207814313178
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2015,"2015",936.9999999999999,"North Carolina","04000US37","north-carolina",2967,0.00029543547707104053
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2015,"2015",1011,"North Carolina","04000US37","north-carolina",2023,0.00020143780590317325
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2015,"2015",4570,"North Carolina","04000US37","north-carolina",22054,0.002196000677898459
+5,"Some Other Race Alone",1,"Hispanic or Latino",2015,"2015",15202,"North Carolina","04000US37","north-carolina",278259,0.027707307183791934
+6,"Two or More Races",0,"Not Hispanic or Latino",2015,"2015",10070.159929216616,"North Carolina","04000US37","north-carolina",200915,0.020005870871495822
+6,"Two or More Races",1,"Hispanic or Latino",2015,"2015",5135.944314339866,"North Carolina","04000US37","north-carolina",40542,0.0040369211700081314
+0,"White Alone",0,"Not Hispanic or Latino",2014,"2014",4159,"North Carolina","04000US37","north-carolina",6359485,0.6395321825380703
+0,"White Alone",1,"Hispanic or Latino",2014,"2014",14094.000000000002,"North Carolina","04000US37","north-carolina",509722,0.05125943738332118
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2014,"2014",9363,"North Carolina","04000US37","north-carolina",2124971,0.213694558829859
+1,"Black or African American Alone",1,"Hispanic or Latino",2014,"2014",4378,"North Carolina","04000US37","north-carolina",29416,0.0029581764374850914
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2014,"2014",3430.0000000000005,"North Carolina","04000US37","north-carolina",105548,0.01061427816914864
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2014,"2014",1586,"North Carolina","04000US37","north-carolina",5728,0.0005760278295456419
+3,"Asian Alone",0,"Not Hispanic or Latino",2014,"2014",4316,"North Carolina","04000US37","north-carolina",245542,0.024692567269953915
+3,"Asian Alone",1,"Hispanic or Latino",2014,"2014",648,"North Carolina","04000US37","north-carolina",1179,0.00011856438740124159
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2014,"2014",1648,"North Carolina","04000US37","north-carolina",5185,0.0005214218394193704
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2014,"2014",519,"North Carolina","04000US37","north-carolina",583,0.00005862853083538919
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2014,"2014",4712,"North Carolina","04000US37","north-carolina",22434,0.0022560419567086124
+5,"Some Other Race Alone",1,"Hispanic or Latino",2014,"2014",14771,"North Carolina","04000US37","north-carolina",299817,0.030150652194637872
+6,"Two or More Races",0,"Not Hispanic or Latino",2014,"2014",10226.368319203058,"North Carolina","04000US37","north-carolina",190198,0.019126979944818788
+6,"Two or More Races",1,"Hispanic or Latino",2014,"2014",5102.2504838551395,"North Carolina","04000US37","north-carolina",44156,0.004440482688794932
+0,"White Alone",0,"Not Hispanic or Latino",2013,"2013",4066.9999999999995,"North Carolina","04000US37","north-carolina",6326195,0.6423798189694214
+0,"White Alone",1,"Hispanic or Latino",2013,"2013",14806,"North Carolina","04000US37","north-carolina",485306,0.049279350450748674
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2013,"2013",11021,"North Carolina","04000US37","north-carolina",2090265,0.21225144850864028
+1,"Black or African American Alone",1,"Hispanic or Latino",2013,"2013",5550,"North Carolina","04000US37","north-carolina",31447,0.003193217750501114
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2013,"2013",3478,"North Carolina","04000US37","north-carolina",104445,0.010605642126469578
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2013,"2013",2500,"North Carolina","04000US37","north-carolina",8185,0.0008311281612825267
+3,"Asian Alone",0,"Not Hispanic or Latino",2013,"2013",4473,"North Carolina","04000US37","north-carolina",236999,0.024065551997043074
+3,"Asian Alone",1,"Hispanic or Latino",2013,"2013",672,"North Carolina","04000US37","north-carolina",1503,0.00015261889143648597
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2013,"2013",2632,"North Carolina","04000US37","north-carolina",5493,0.0005577748307788539
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2013,"2013",608,"North Carolina","04000US37","north-carolina",1168,0.00011860203938643753
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2013,"2013",5657,"North Carolina","04000US37","north-carolina",22585,0.0022933450852249074
+5,"Some Other Race Alone",1,"Hispanic or Latino",2013,"2013",14064.000000000002,"North Carolina","04000US37","north-carolina",298325,0.030292768321882685
+6,"Two or More Races",0,"Not Hispanic or Latino",2013,"2013",10493.646887521993,"North Carolina","04000US37","north-carolina",194873,0.019787958237459966
+6,"Two or More Races",1,"Hispanic or Latino",2013,"2013",5235.801848809789,"North Carolina","04000US37","north-carolina",41271,0.004190774629724027

@@ -1,0 +1,13 @@
+name: NC_Race
+title: NC_Race
+username:
+account: weeksmarian
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6215557
+bundleId: 5860635
+url: https://weeksmarian.shinyapps.io/NC_Race/
+when: 1651503250.12916
+lastSyncTime: 1651503250.12918
+asMultiple: FALSE
+asStatic: FALSE

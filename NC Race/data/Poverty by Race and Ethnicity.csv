@@ -1,0 +1,57 @@
+ID Race,Race,ID Year,Year,ID Poverty Status,Poverty Status,Poverty Population,Poverty Population Moe,Geography,ID Geography,Slug Geography,share
+1,"White",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",890086,7295.023440675157,"North Carolina","04000US37","north-carolina",0.45625313964097886
+1,"White",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",887574,7233.164037957387,"North Carolina","04000US37","north-carolina",0.4558550794457059
+1,"White",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",872368,7041.235544987826,"North Carolina","04000US37","north-carolina",0.45798764689978133
+1,"White",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",867251,6924.479619437117,"North Carolina","04000US37","north-carolina",0.45207796635261466
+1,"White",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",845573,7095.367502814776,"North Carolina","04000US37","north-carolina",0.4573493014058423
+1,"White",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",823258,6836.479722781308,"North Carolina","04000US37","north-carolina",0.4613237130132089
+1,"White",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",790244,6975.09333270889,"North Carolina","04000US37","north-carolina",0.4604977084201356
+2,"Black",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",555579,5337.2786136756995,"North Carolina","04000US37","north-carolina",0.2853435422661838
+2,"Black",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",551510,5316.942354398813,"North Carolina","04000US37","north-carolina",0.2827009626523687
+2,"Black",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",548271,5121.748822423841,"North Carolina","04000US37","north-carolina",0.285801041094348
+2,"Black",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",537538,5392.026798894827,"North Carolina","04000US37","north-carolina",0.28220402827615715
+2,"Black",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",517071,5372.436039637884,"North Carolina","04000US37","north-carolina",0.2796707802013786
+2,"Black",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",493496,5373.741806227761,"North Carolina","04000US37","north-carolina",0.27653713304597893
+2,"Black",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",475973,5134.047039130046,"North Carolina","04000US37","north-carolina",0.27736303694790115
+9,"Hispanic",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",283395,3861.7836552556905,"North Carolina","04000US37","north-carolina",0.14526670289000748
+9,"Hispanic",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",277906,4112.261543238708,"North Carolina","04000US37","north-carolina",0.14273160514890965
+9,"Hispanic",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",274977,3977.586831233229,"North Carolina","04000US37","north-carolina",0.14333917511048466
+9,"Hispanic",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",273081,3973.708595254564,"North Carolina","04000US37","north-carolina",0.14336578668983638
+9,"Hispanic",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",268985,3977.5472341632853,"North Carolina","04000US37","north-carolina",0.1454872634753599
+9,"Hispanic",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",260607,3786.2653103024886,"North Carolina","04000US37","north-carolina",0.1460346439114267
+9,"Hispanic",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",248474,3846.2182725373245,"North Carolina","04000US37","north-carolina",0.14479288371943952
+6,"Other",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",109041,2857.0969532026734,"North Carolina","04000US37","north-carolina",0.05684056118592594
+6,"Other",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",103066,2818.357855205758,"North Carolina","04000US37","north-carolina",0.05293435771907596
+6,"Other",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",102072,2795.0361357234724,"North Carolina","04000US37","north-carolina",0.05232154024378992
+6,"Other",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",98899,2676.8345111343733,"North Carolina","04000US37","north-carolina",0.051921345453686374
+6,"Other",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",97609,2791.5458083291414,"North Carolina","04000US37","north-carolina",0.052794268455736953
+6,"Other",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",89305,2593.582271685246,"North Carolina","04000US37","north-carolina",0.05004326006020545
+6,"Other",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",84699,2437.009642984615,"North Carolina","04000US37","north-carolina",0.0493565220431627
+7,"Two Or More",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",58091,1896.9615177962887,"North Carolina","04000US37","north-carolina",0.02983534603321019
+7,"Two Or More",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",58053,1848.7571500875931,"North Carolina","04000US37","north-carolina",0.029757645346155027
+7,"Two Or More",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",57525,1891.7684847781982,"North Carolina","04000US37","north-carolina",0.030200258821861784
+7,"Two Or More",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",55263,1934.7684615994754,"North Carolina","04000US37","north-carolina",0.028807328737060604
+7,"Two Or More",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",55222,1868.296015089686,"North Carolina","04000US37","north-carolina",0.029868199578550195
+7,"Two Or More",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",54627,1841.855586087031,"North Carolina","04000US37","north-carolina",0.031832710299435046
+7,"Two Or More",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",54355,1837.7361072798237,"North Carolina","04000US37","north-carolina",0.030458556638177786
+3,"Native American",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",33327,1145.7185518267565,"North Carolina","04000US37","north-carolina",0.01711663729749524
+4,"Asian",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",33282,1350.0425919207141,"North Carolina","04000US37","north-carolina",0.01800140194801542
+3,"Native American",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",33262,1213.673761766316,"North Carolina","04000US37","north-carolina",0.017338714301650467
+4,"Asian",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",32712,1356.0505152832618,"North Carolina","04000US37","north-carolina",0.018330609966848897
+3,"Native American",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",32525,1087.1770784927355,"North Carolina","04000US37","north-carolina",0.016672134340752282
+4,"Asian",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",32158,1387.676114949018,"North Carolina","04000US37","north-carolina",0.016484012179244025
+3,"Native American",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",32101,1051.8127209727024,"North Carolina","04000US37","north-carolina",0.016852820659549503
+4,"Asian",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",32044,1298.536098843617,"North Carolina","04000US37","north-carolina",0.01682289602238573
+4,"Asian",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",30707,1291.607525527782,"North Carolina","04000US37","north-carolina",0.017893844347387774
+4,"Asian",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",30273,1285.399159794342,"North Carolina","04000US37","north-carolina",0.015548112968676251
+3,"Native American",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",30017,1051.8555033843766,"North Carolina","04000US37","north-carolina",0.016235445053589894
+3,"Native American",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",29981,1065.6162536297952,"North Carolina","04000US37","north-carolina",0.017470783449344867
+3,"Native American",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",29577,1039.1727479105675,"North Carolina","04000US37","north-carolina",0.01657387047534513
+4,"Asian",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",29443,1342.5185287361958,"North Carolina","04000US37","north-carolina",0.015347957584736177
+5,"Pacific Islander",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",1360,242.8312171035676,"North Carolina","04000US37","north-carolina",0.0007925107731933231
+5,"Pacific Islander",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",1246,218.58865478336244,"North Carolina","04000US37","north-carolina",0.0006982128888081966
+5,"Pacific Islander",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",1237,254.6841180757057,"North Carolina","04000US37","north-carolina",0.0006353191207429896
+5,"Pacific Islander",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",1229,261.9961831783051,"North Carolina","04000US37","north-carolina",0.000645217176741732
+5,"Pacific Islander",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",1097,221.4791186545585,"North Carolina","04000US37","north-carolina",0.0005933398815267387
+5,"Pacific Islander",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",1061,215.53885960540853,"North Carolina","04000US37","north-carolina",0.0005438627067037102
+5,"Pacific Islander",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",858,247.38835865901208,"North Carolina","04000US37","north-carolina",0.0004472556331794871
