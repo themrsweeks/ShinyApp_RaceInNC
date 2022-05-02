@@ -12,7 +12,7 @@ To view the live app go to [Race in North Carolina](https://weeksmarian.shinyapp
 If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
 
 1. Download all items in the NC Race folder
-2. Open Final_Project.Rproj in R Studio
+2. Open NCRace.Rproj in R Studio
 3. Open app.R
 4. Click "Run App" in the upper right corner of the code panel
 5. (optional) Click "Open in Browser" in the upper left corner of the app window if you wish to view in browser
