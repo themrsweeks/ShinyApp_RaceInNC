@@ -15,7 +15,6 @@ If you wish to run the app from R Studio instead of going to the above link, you
 2. Open *NCRace.Rproj* in R Studio
 3. Open *app.R*
 4. Click "Run App" in the upper right corner of the code panel
-5. (optional) Click "Open in Browser" in the upper left corner of the app window if you wish to view in browser
 
 #
 >Data Sources
