@@ -17,7 +17,7 @@ If you wish to run the app from R Studio instead of going to the above link, you
 4. Click "Run App" in the upper right corner of the code panel
 
 #
->Data Sources
+>Data Source
 
 The data used for our analysis was free and made publically availabe by Data USA through the following link:
 
